@@ -1,0 +1,31 @@
+Business contract:
+
+Business Transaction Contract (A3)
+
+Participants Involved:
+Company A: Access Inc.
+Company B: BrightonLLC.
+
+
+Transaction Details:
+
+Date: June 2023
+Product/Service Description: Logistics
+Quantity: 30
+Unit Price: $ 100
+Total Amount: $3000
+
+
+Terms and Conditions:
+1. Payment Terms: Monthly
+2. Delivery Schedule: 7th July 2023
+
+
+Agreement and Signature:
+By signing this document, Company A and Company B agree to the terms and conditions stated above.
+
+Company A Signature:
+Date: 
+
+Company B Signature:
+Date: 
